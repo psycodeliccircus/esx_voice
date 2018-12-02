@@ -6,6 +6,7 @@ version '1.1.0'
 
 client_scripts {
 	'@es_extended/locale.lua',
+	'locales/br.lua',
 	'locales/en.lua',
 	'locales/fi.lua',
 	'locales/pl.lua',
